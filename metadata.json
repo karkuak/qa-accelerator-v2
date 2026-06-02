@@ -1,0 +1,6 @@
+{
+  "name": "QA Accelerator",
+  "description": "Agentic AI Platform for Test Validation, Defect Intelligence, and Production Impact Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
